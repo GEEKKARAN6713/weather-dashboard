@@ -31,7 +31,7 @@ A modern, clean weather application built with Python and Tkinter that provides 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/weather-dashboard.git
+git clone https://github.com/GEEKKARAN6713/weather-dashboard.git
 cd weather-dashboard
 ```
 
